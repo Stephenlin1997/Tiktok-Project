@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="001204a5-8c07-4f22-becc-f79a5b6be947" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-api/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/grace/result/GraceJSONResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/grace/result/IMOOCJSONResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/grace/result/ResponseStatusEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-mapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-model/src/main/java/com/imooc/model/Stu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -64,10 +52,17 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "File.Encoding"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -103,12 +98,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679535048516</updated>
-      <workItem from="1679535050806" duration="19225000" />
+      <workItem from="1679535050806" duration="20923000" />
     </task>
+    <task id="LOCAL-00001" summary="Tiktok project">
+      <created>1680556965826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680556965826</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tiktok project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tiktok project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
