@@ -7,59 +7,8 @@
     <option name="showContexts" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001204a5-8c07-4f22-becc-f79a5b6be947" name="Changes" comment="smscode verify update">
-      <change afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/MinIOConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/controller/FileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/controller/UserInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/controller/VlogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/intercepter/UserTokenInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/enums/FileTypeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/enums/MessageEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/enums/Sex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/enums/UserInfoModifyType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/enums/YesOrNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/utils/DateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/utils/DesensitizationUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/utils/MinIOUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/com/imooc/utils/PagedGridResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/DayCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/Id.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/IdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/InvalidSystemClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/RandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/Sid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/WorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/strategy/DayPrefixRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/strategy/DefaultRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/strategy/DefaultWorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/strategy/FileLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/utils/HttpReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/utils/IPv4Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/utils/Ip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/utils/Props.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/utils/Serializes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-common/src/main/java/org/n3r/idworker/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-model/src/main/java/com/imooc/bo/UpdatedUserBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-model/src/main/java/com/imooc/bo/VlogBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-service/src/main/hibkdog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/imooc/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/imooc/service/VlogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/imooc/service/impl/VlogServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="001204a5-8c07-4f22-becc-f79a5b6be947" name="Changes" comment="Video upload func updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/InterceptorConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/InterceptorConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/controller/BaseInfoProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/controller/BaseInfoProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/controller/PassportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-api/src/main/java/com/imooc/controller/PassportController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-api/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/book-api/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-api/src/main/resources/application-prod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/book-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-model/src/main/java/com/imooc/bo/RegistLoginBo.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-model/src/main/java/com/imooc/bo/RegistLoginBo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-model/src/main/java/com/imooc/pojo/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-model/src/main/java/com/imooc/pojo/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-model/src/main/java/com/imooc/vo/UsersVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-model/src/main/java/com/imooc/vo/UsersVO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,8 +85,8 @@
       <recent name="$PROJECT_DIR$/book-mapper" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/book-api/src/main/java/com/imooc" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/book-api/src/main/java/com/imooc" />
       <recent name="$PROJECT_DIR$/book-api/src/main/resources" />
       <recent name="$PROJECT_DIR$/book-service/src/main" />
       <recent name="$PROJECT_DIR$/book-common/src/main/java/com/imooc/enums" />
@@ -199,7 +148,7 @@
       <workItem from="1682898961369" duration="27225000" />
       <workItem from="1684936628789" duration="457000" />
       <workItem from="1684937103876" duration="5164000" />
-      <workItem from="1685305370226" duration="1140000" />
+      <workItem from="1685305370226" duration="8522000" />
     </task>
     <task id="LOCAL-00001" summary="Tiktok project">
       <created>1680556965826</created>
@@ -229,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682229228963</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Video upload func updated">
+      <created>1685307083910</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685307083910</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Video upload func updated">
+      <created>1685307115124</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685307115124</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +206,18 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="true" />
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Master" />
+                      </list>
+                    </value>
+                  </entry>
                 </map>
               </option>
             </State>
@@ -256,7 +230,8 @@
     <MESSAGE value="Tiktok project" />
     <MESSAGE value="Tiktok-project" />
     <MESSAGE value="smscode verify update" />
-    <option name="LAST_COMMIT_MESSAGE" value="smscode verify update" />
+    <MESSAGE value="Video upload func updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Video upload func updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
