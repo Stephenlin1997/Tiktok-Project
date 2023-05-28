@@ -1,20 +1,17 @@
-package com.imooc.vo;
+package com.imooc.bo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-import javax.persistence.Column;
-import javax.persistence.Id;
-import javax.validation.constraints.NotBlank;
 import java.util.Date;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
-public class UsersVO {
+public class UpdatedUserBO {
     private String id;
     private String mobile;
     private String nickname;
@@ -32,11 +29,6 @@ public class UsersVO {
     private Date createdTime;
     private Date updatedTime;
 
-    private String userToken;       // 用户token，传递给前端
 
-    private Integer myFollowsCounts;
-    private Integer myFansCounts;
-    private Integer myLikedVlogCounts;
-    private Integer totalLikeMeCounts;
 
 }

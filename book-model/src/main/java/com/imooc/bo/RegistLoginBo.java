@@ -18,6 +18,6 @@ public class RegistLoginBo {
         @Length(min = 10, max = 10, message = "手机长度不正确")
         private String mobile;
         @NotBlank(message = "手机号不能为空")
-        private String verifyCode;
+        private String smsCode;
 
 }
